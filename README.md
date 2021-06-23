@@ -17,6 +17,8 @@ Download the `convae_architecture` folder
 $ git clone http://github.com/landiisotta/convae_architecture
 ```
 
+#MICHAELTEST
+
 The full list of required Python Packages is available in `requrirements.txt` file. It is possible
 to install all the dependencies by:
 
